@@ -1,6 +1,6 @@
 {
   "name": "serverless-empty-aws-bucket",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Serverless plugin for AWS bucket clean up",
   "main": "lib/index.js",
   "scripts": {
